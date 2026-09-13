@@ -1082,3 +1082,14 @@
   technology: [navigation, perception, software-engineering]
   application: education
   stack: [ros_basics, robotics_theory]
+- name: Modern Robotics C++ Notes
+  organization: arjunskumar
+  governance: individual
+  maintainer: github.com/arjunskumar
+  repo: https://github.com/arjunskumar/Robotics_CPP_Notes
+  doc_type: handout
+  language: en
+  date: 2026
+  technology: software-engineering
+  application: education
+  stack: [modern_cpp, cmake]
