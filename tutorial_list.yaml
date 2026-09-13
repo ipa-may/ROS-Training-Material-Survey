@@ -1071,3 +1071,14 @@
   deploy_gui: not-defined
   language: en
   technology: software-engineering
+- name: Robotic Notes
+  organization: Behnam Asadi
+  governance: individual
+  date: 2026
+  maintainer: github.com/behnamasadi
+  repo: https://github.com/behnamasadi/robotic_notes
+  doc_type: handout
+  language: en
+  technology: [navigation, perception, software-engineering]
+  application: education
+  stack: [ros_basics, robotics_theory]
