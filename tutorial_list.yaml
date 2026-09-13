@@ -1102,3 +1102,15 @@
   application: education
   stack: [ros_basics, behavior_tree_cpp, turtlesim]
   deploy_specifics: devcontainer
+- name: Winebot MoveIt Task Constructor and NVIDIA Isaac Sim with fluid simulation
+  governance: individual
+  maintainer: github.com/DaniGarciaLopez
+  repo: https://github.com/DaniGarciaLopez/winebot
+  doc_type: workshop repository
+  date: 2025
+  language: en
+  technology: [manipulation, task-planning]
+  application: [pick-place, pouring]
+  robot: franka_panda
+  hardware: [nvidia_gpu]
+  stack: [moveit2, moveit_task_constructor, isaacsim]
