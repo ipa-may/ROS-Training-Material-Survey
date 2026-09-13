@@ -1072,7 +1072,6 @@
   language: en
   technology: software-engineering
 - name: Robotic Notes
-  organization: Behnam Asadi
   governance: individual
   date: 2026
   maintainer: github.com/behnamasadi
@@ -1083,7 +1082,6 @@
   application: education
   stack: [ros_basics, robotics_theory]
 - name: Modern Robotics C++ Notes
-  organization: arjunskumar
   governance: individual
   maintainer: github.com/arjunskumar
   repo: https://github.com/arjunskumar/Robotics_CPP_Notes
@@ -1093,3 +1091,14 @@
   technology: software-engineering
   application: education
   stack: [modern_cpp, cmake]
+- name: Turtle Tree Tutorial
+  governance: individual
+  maintainer: github.com/eeberhard
+  repo: https://github.com/eeberhard/turtle-tree-tutorial
+  doc_type: [handout, workshop repository]
+  date: 2026
+  language: en
+  technology: behavior
+  application: education
+  stack: [ros_basics, behavior_tree_cpp, turtlesim]
+  deploy_specifics: devcontainer
